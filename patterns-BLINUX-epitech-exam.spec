@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-epitech-exam
 Version:        2.0
-Release:        1
+Release:        2
 Summary:        Meta package for Epitech Exam need
 Group:          Metapackages
 License:        BSD-2-Clause
@@ -65,6 +65,7 @@ Requires:	php5-posix
 Requires:	rlwrap
 Requires:	sqlite2
 Requires:	sqlite2-devel
+Requires:	terminator
 Requires:	texlive-latex
 Requires:	texlive-pdftex
 Requires:	texlive-pdftools
