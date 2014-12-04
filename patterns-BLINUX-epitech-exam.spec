@@ -61,6 +61,7 @@ Requires:	php5-gettext
 Requires:	php5-mbstring
 Requires:	php5-mysql
 Requires:	php5-mcrypt
+Requires:	php5-posix
 Requires:	rlwrap
 Requires:	sqlite2
 Requires:	sqlite2-devel
