@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-epitech-exam
 Version:        2.0
-Release:        2
+Release:        3
 Summary:        Meta package for Epitech Exam need
 Group:          Metapackages
 License:        BSD-2-Clause
@@ -72,6 +72,7 @@ Requires:	texlive-pdftools
 Requires:	tree
 Requires:	valgrind
 Requires:	zip
+Requires:	zlib-devel
 Requires:	zsh
 
 %description
